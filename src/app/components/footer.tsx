@@ -58,7 +58,7 @@ export default function Footer() {
 
           <div className="flex items-center gap-4 order-1 sm:order-2">
             <a
-              href="https://twitter.com/yourusername"
+              href="https://github.com/TomaHara"
               target="_blank"
               rel="noopener noreferrer"
               className="transform hover:scale-110 transition-transform duration-300"
@@ -71,7 +71,7 @@ export default function Footer() {
               />
             </a>
             <a
-              href="https://twitter.com/yourusername"
+              href="https://x.com/tomato_mechauma"
               target="_blank"
               rel="noopener noreferrer"
               className="transform hover:scale-110 transition-transform duration-300"
@@ -84,7 +84,7 @@ export default function Footer() {
               />
             </a>
             <a
-              href="mailto:your-email@example.com"
+              href="mailto:tomaa.hara@gmail.com"
               className="transform hover:scale-110 transition-transform duration-300"
             >
               <Image
