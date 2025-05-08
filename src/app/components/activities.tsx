@@ -47,7 +47,7 @@ export default function Activities() {
           className="rounded-xl"
         ></Image>
         <div className="sm:hidden -mt-4 self-end text-right text-sm text-gray-500">
-          <p>2024年3月16日〜20日</p>
+          <p>2025年3月16日〜20日</p>
           <p>アラブ首長国連邦アブダビ</p>
         </div>
         <div className="flex flex-col text-left items-center justify-center gap-6">
@@ -63,7 +63,7 @@ export default function Activities() {
               Award（最優秀ポスター賞）を受賞しました。
             </p>
             <div className="hidden sm:flex flex-col mt-10 text-right text-sm text-gray-500">
-              <p>2024年3月16日〜20日</p>
+              <p>2025年3月16日〜20日</p>
               <p>アラブ首長国連邦アブダビ</p>
             </div>
           </div>
