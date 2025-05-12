@@ -29,7 +29,7 @@ export default function Activities() {
           <div className="-mt-2 sm:mt-0">
             <p>
               外資就活ドットコム主催のEngineer Guild
-              Hackathon（全48チーム・188名参加）に研究室メンバーと出場。「生活のコマッタをテクノロジーで解決する」というテーマのもと、友人間の約束管理を支援するLINE連携サービスを提案・開発しました。日本マイクロソフト品川本社にて決勝発表を行い、3位に入賞しました。
+              Hackathon（全45チーム・188名参加）に研究室メンバーと出場。「生活のコマッタをテクノロジーで解決する」というテーマのもと、友人間の約束管理を支援するLINE連携サービスを提案・開発しました。日本マイクロソフト品川本社にて決勝発表を行い、3位に入賞しました。
             </p>
             <div className="hidden sm:flex flex-col mt-10 text-right text-sm text-gray-500">
               <p>2025年2月22日〜3月8日</p>
